@@ -1,0 +1,10 @@
+
+.fa-trash:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.fa-pen-to-square:hover{
+    color: blue;
+    cursor: pointer;
+}
